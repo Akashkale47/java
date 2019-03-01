@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Timetable"
+        android:icon="@drawable/ic_event_note_black_24dp"
+        android:title="Timetable"
+        />
+    <item
+        android:id="@+id/navigation_Trackbus"
+        android:icon="@drawable/ic_directions_bus_black_24dp"
+        android:title="Trackbus"
+        />
+    <item
+        android:id="@+id/navigation_Help"
+        android:icon="@drawable/ic_help_outline_black_24dp"
+        android:title="Help"
+        />
+
+</menu>

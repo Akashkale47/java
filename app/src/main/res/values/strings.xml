@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AaplibusAurangabad</string>
+
+    <string name="railway_station_to_naubat_darwaza">Railway Station to Naubat Darwaza</string>
+
+    <string-array name="City">
+        <item>Select Current Location</item>
+        <item>Railway Station</item>
+        <item>ST Divisional Office</item>
+        <item>Central Bus Stand</item>
+        <item>Police Commissioner Office</item>
+        <item>Naubat Darwaza</item>
+    </string-array>
+
+    <string-array name="City2">
+        <item>Select Destination</item>
+        <item>Railway Station</item>
+        <item>ST Divisional Office</item>
+        <item>Central Bus Stand</item>
+        <item>Police Commissioner Office</item>
+        <item>Naubat Darwaza</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
